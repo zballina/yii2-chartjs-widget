@@ -43,7 +43,7 @@
     "config": {
         "fxp-asset": {
             "installer-paths": {
-                "npm-asset-library": "vendor/npm",
+                "npm-asset-library": "vendor/npm"
             },
             "vcs-driver-options": {
                 "github-no-api": true
